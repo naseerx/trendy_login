@@ -6,7 +6,11 @@ A new Flutter project.
 
 
 
-https://github.com/naseerx/trendy_login/blob/master/video/New-Tab.mp4
+<code><img src="https://github.com/naseerx/trendy_login//blob/main/video/g.gif"></code>
+
+
+
+
 
 A few resources to get you started if this is your first Flutter project:
 
