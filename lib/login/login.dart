@@ -178,7 +178,7 @@ class _LoginScreenState extends State<LoginScreen> {
                           children: [
                             TextFormField(
                               decoration: InputDecoration(
-                                labelText: 'Email',
+                                labelText: 'email',
                                 hintText: 'naseer@gmail.com',
                                 border: OutlineInputBorder(
                                   borderRadius: BorderRadius.circular(25.0),
